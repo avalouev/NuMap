@@ -1,10 +1,6 @@
 # NuMap
 NuMap - http://www-hsc.usc.edu/~valouev/NuMap/NuMap.html by Anton Valouev
 
-I uploaded this software because I couldn't compile it from the original distribution (there was a header missing), so I thought it would be of interest to others to get pass this problem as well.
-
-I am further uploading the compiled (linux x86_64) binaries as well (they're in `bin`).
-
 ## Install
     git clone git@github.com:afrendeiro/NuMap.git
     cd NuMap
