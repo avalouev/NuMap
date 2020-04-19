@@ -1,8 +1,15 @@
 # NuMap
 NuMap - http://www-hsc.usc.edu/~valouev/NuMap/NuMap.html by Anton Valouev
 
+NuMap is a software for analysis of nucleosome mapping data MNase-Seq. It can also
+be used to produced various plots as described in my original paper.
+
+Citation:
+"Determinants of nucleosome organization in primary human cells.
+Valouev A1, Johnson SM, Boyd SD, Smith CL, Fire AZ, Sidow A., Nature 2011"
+
 ## Install
-    git clone git@github.com:afrendeiro/NuMap.git
+    git clone git@github.com:avalouev/NuMap.git
     cd NuMap
     make
     # add to $PATH or copy to /usr/bin/
