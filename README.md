@@ -8,6 +8,8 @@ Citation:
 "Determinants of nucleosome organization in primary human cells.
 Valouev A1, Johnson SM, Boyd SD, Smith CL, Fire AZ, Sidow A., Nature 2011"
 
+The original paper is available here: http://mendel.stanford.edu/SidowLab/pdfs/2011ValouevEtAl.pdf
+
 ## Install
     git clone git@github.com:avalouev/NuMap.git
     cd NuMap
