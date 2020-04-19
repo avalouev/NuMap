@@ -1,7 +1,7 @@
 # NuMap
-NuMap - http://www-hsc.usc.edu/~valouev/NuMap/NuMap.html by Anton Valouev
+NuMap - by Anton Valouev
 
-NuMap is a software for analysis of nucleosome mapping data MNase-Seq. It can also
+NuMap is a software package for analysis of nucleosome mapping data such as MNase-Seq. It can also
 be used to produced various plots as described in my original paper.
 
 Citation:
